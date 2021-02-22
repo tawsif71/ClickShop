@@ -1,0 +1,138 @@
+.logo img {
+   width: 30px;
+}
+
+#color-change li a {
+   color: white;
+   font-weight: 700;
+}
+
+#color-change li:hover a {
+   background-color: black;
+   border-radius: 5px;
+}
+
+.carousel-item img {
+   height: 550px;
+}
+
+.carousel-caption h5 {
+   color: black;
+   font-size: 25px;
+}
+
+.carousel-caption button {
+   border: none;
+   background-color: #df1d98;
+   width: 150px;
+   height: 50px;
+   border-radius: 10px;
+   color: white;
+   font-weight: 700;
+}
+
+.carousel-caption button:hover {
+   background-color: blue;
+   border-radius: 5px;
+}
+
+.card-group img {
+   height: 300px;
+}
+
+.category {
+   font-family: 'RocknRoll One', sans-serif;
+   color: #df1d98;
+   font-weight: 900;
+}
+
+.card-title {
+   color: #df1d98;
+   font-weight: 700;
+}
+
+.card:hover {
+   box-shadow: 10px 10px 20px;
+}
+
+.banner-img img {
+   height: 180px;
+}
+
+.card-deck {
+   display: flex;
+}
+
+.card-deck img {
+   height: 400px;
+}
+
+.gbanner-img img {
+   height: 180px;
+}
+
+.card-body {
+   text-align: center;
+   font-weight: 700;
+}
+
+.card-body button {
+   border: none;
+   background-color: #df1d98;
+   width: 150px;
+   border-radius: 5px;
+   color: white;
+   font-weight: 700;
+}
+
+.jbanner-img img {
+   height: 180px;
+}
+
+.cbanner-img img {
+   height: 180px;
+}
+
+.navbar {
+   margin-left: 196px;
+   margin-right: 196px;
+}
+
+.container {
+   margin-top: -6px;
+}
+
+.sign-up {
+   width: 1300px;
+   height: 580px;
+   background-image: url(img/f.jpg);
+   background-position: center;
+   background-repeat: repeat;
+   border-radius: 15px;
+   color: white;
+   font-weight: 700;
+
+}
+
+.sign-up h3 {
+   text-align: center;
+   color: white;
+}
+
+.footer {
+   background-color: lightsteelblue;
+   color: mediumvioletred;
+}
+
+.copyrightText a {
+   text-align: center;
+   color: black;
+   color: #ff0157;
+   font-weight: 500;
+   text-decoration: none;
+}
+
+.copyrightText p {
+   color: black;
+   font-weight: 700;
+}
